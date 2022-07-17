@@ -1,0 +1,35 @@
+LD     I0.0
+LD     I0.3
+A      I0.4
+OLD
+LD     I0.1
+AN     I0.2
+O      I0.5
+ALD
+A      I0.6
+=      Q0.0
+N
+LD     I0.7
+EU
+=      Q0.1
+N
+LD     I1.0
+LDN    I1.1
+CTU    C10, 10
+N
+LDN    I1.3
+TON    T10, 10
+N
+LD     I1.2
+AN     I1.3
+LDN    I1.4
+A      I1.5
+CTD    C5, 15
+N
+LDN    I2.1
+LD     I2.3
+AN     I2.4
+OLD
+A      I2.2
+=      Q2.0
+N
